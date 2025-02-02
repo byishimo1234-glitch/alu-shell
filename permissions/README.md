@@ -1,2 +1,1 @@
-changing the current user to user betty
-
+Diplaying the current user
