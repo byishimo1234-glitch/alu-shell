@@ -1,2 +1,2 @@
 #!/bin/bash
-chmd 075 --reference="$olleh" "$hello"
+chmd 075 "$olleh" "$hello"
