@@ -1,1 +1,1 @@
-Command that creates a new file hello
+Command that adds execute permission to the owner of the file hello
