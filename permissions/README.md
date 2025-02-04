@@ -1,1 +1,1 @@
-Command that changes the owner of the file hello to the user betty
+Command that creates a new file hello
