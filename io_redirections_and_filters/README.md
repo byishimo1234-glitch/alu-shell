@@ -1,1 +1,1 @@
-File that displays the content of the /etc/passwd file.
+File that displays the content of /etc/passwd and /etc/hosts.
