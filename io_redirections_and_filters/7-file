@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e '#!/bin/bash\necho "Best School" > "*\\'\''Best School'\''\\*$?*****:)"' > create_file.sh
