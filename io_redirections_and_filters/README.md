@@ -1,1 +1,1 @@
-File that displays the last ten lines of /etc/passwd.
+File that displays the first  ten lines of /etc/passwd.
