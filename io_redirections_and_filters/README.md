@@ -1,1 +1,1 @@
-File that Create a script that removes all letters c and C from input
+File that Write a script that reverse its input.
