@@ -1,2 +1,3 @@
 #!/bin/bash
-cut -c1 25-acrostic | tr -d '\n'
+cut -c1 acrostic_3 | tr -d '\n'
+
