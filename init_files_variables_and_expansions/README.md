@@ -1,1 +1,1 @@
-File that Create a script that counts the number of directories in the PATH.
+File that Create a script that lists environment variables.
