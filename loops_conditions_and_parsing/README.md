@@ -1,1 +1,1 @@
-File that Write a Bash script that loops from 1 to 10 and:
+File that Write a Bash script that displays numbers from 1 to 20 and:
