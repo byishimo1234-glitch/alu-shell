@@ -1,1 +1,5 @@
-File that Write a Bash script that displays the time for 12 hours and 59 minutes:
+File that displays:
+
+The content of the current directory
+In a list format
+Where only the part of the name after the first dash is displayed (refer to the example)
