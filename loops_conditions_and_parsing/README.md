@@ -1,1 +1,1 @@
-File that Write a Bash script that displays numbers from 1 to 20 and:
+File that Write a Bash script that displays the time for 12 hours and 59 minutes:
