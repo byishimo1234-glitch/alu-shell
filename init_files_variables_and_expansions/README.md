@@ -1,1 +1,1 @@
-File that Create a script that lists all local variables and environment variables, and functions.
+File that Create a script that creates a new local variable..
