@@ -1,1 +1,1 @@
-File that Write a Bash script that stops 4-to_infinity_and_beyond process
+File that Write a Bash script that stops 4-to_infinity_and_beyond process.
