@@ -1,1 +1,5 @@
-File that Write a Bash script that stops 4-to_infinity_and_beyond process.
+File that Write a Bash script that displays:
+
+To infinity and beyond indefinitely
+With a sleep 2 in between each iteration
+I am invincible!!! when receiving a SIGTERM signal
