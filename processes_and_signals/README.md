@@ -1,7 +1,1 @@
-File that Write a Bash script that:
-
-Creates the file /var/run/myscript.pid containing its PID
-Displays To infinity and beyond indefinitely
-Displays I hate the kill command when receiving a SIGTERM signal
-Displays Y U no love me?! when receiving a SIGINT signal
-Deletes the file /var/run/myscript.pid and terminates itself when receiving a SIGQUIT or SIGTERM signa
+File that Write Bash (init) script 11-manage_my_process that manages manage_my_process. (both files need to be pushed to git)
