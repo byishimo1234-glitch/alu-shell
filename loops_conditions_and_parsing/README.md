@@ -1,1 +1,1 @@
-File that Write a Bash script that displays numbers from 1 to 100.
+File that Write a Bash script that displays the content of the file /etc/passwd.
