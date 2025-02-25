@@ -1,1 +1,1 @@
-File that Write a Bash script that displays Best School 10 times.
+File that Write a Bash script that gives you information about the school file.
