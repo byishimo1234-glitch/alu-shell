@@ -1,5 +1,1 @@
-File that displays:
-
-The content of the current directory
-In a list format
-Where only the part of the name after the first dash is displayed (refer to the example)
+File that Write a Bash script that displays Best School 10 times.
